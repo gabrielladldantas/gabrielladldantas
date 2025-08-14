@@ -1,5 +1,5 @@
 ## Oii! Me chamo Gabriella
-💻 Sou estudante do curso de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedora em início de carreira, certificada pelo bootcamp Avanade Back-End com .NET e IA (DIO) e participante do programa Bolsa Futuro Digital (Softex PE) de Front-end React. C#, .NET, APIs REST, SQL e React, com base em lógica de programação e aprendizado contínuo. Buscando construir projetos inovadores e crescer na área de desenvolvimento de software.
 
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=false">    <img  alt="gabrielladldantas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielladldantas?cardType=github&preferLogin=false" />  </a>
 <div style="display: inline_block"><br>
