@@ -1,23 +1,27 @@
-## Oii! Me chamo Gabriella
-💻 Desenvolvedora em início de carreira, certificada pelo bootcamp Avanade Back-End com .NET e IA (DIO) e participante do programa Bolsa Futuro Digital (Softex PE) de Front-end React. C#, .NET, APIs REST, SQL e React, com base em lógica de programação e aprendizado contínuo. Buscando construir projetos inovadores e crescer na área de desenvolvimento de software.
+# Olá, me chamo Anna Gabriella 🌟
 
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=false">    <img  alt="gabrielladldantas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/gabrielladldantas?cardType=github&preferLogin=false" />  </a>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%; height: auto; max-height: 30px;">
-   
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href = "mailto:gabriellalayme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https:/https://www.instagram.com/gabidldantas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://(https://www.linkedin.com/in/anna-gabriella/)](https://www.linkedin.com/in/anna-gabriella/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+```Seja Bem-vindo ao meu perfil no GitHub```
+
+ ```💻Sobre mim:```
+
+Desenvolvedora em início de carreira, certificada pelo bootcamp Avanade Back-End com .NET e IA (DIO) e participante do programa Bolsa Futuro Digital (Softex PE) de Front-end React. C#, .NET, APIs REST, SQL e React, com base em lógica de programação e aprendizado contínuo. Buscando construir projetos inovadores e crescer na área de desenvolvimento de software.
+
+
+ ```👩‍💻 Tecnologias```
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+## 🌐 Vamos nos conectar?
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabidldantas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-gabriella/)
