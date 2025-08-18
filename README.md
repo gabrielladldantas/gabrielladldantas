@@ -4,7 +4,7 @@
 
  ```💻Sobre mim:```
 
-Desenvolvedora em início de carreira, certificada pelo bootcamp Avanade Back-End com .NET e IA (DIO) e participante do programa Bolsa Futuro Digital (Softex PE) de Front-end React. C#, .NET, APIs REST, SQL e React, com base em lógica de programação e aprendizado contínuo. Buscando construir projetos inovadores e crescer na área de desenvolvimento de software.
+Desenvolvedora em início de carreira, em formação pelo bootcamp Avanade Back-End com .NET e IA (DIO) e participante do programa Bolsa Futuro Digital (Softex PE) de Front-end React. C#, .NET, APIs REST, SQL e React, com base em lógica de programação e aprendizado contínuo. Buscando construir projetos inovadores e crescer na área de desenvolvimento de software.
 
 
  ```👩‍💻 Tecnologias```
